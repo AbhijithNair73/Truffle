@@ -1,0 +1,33 @@
+{
+  "name": "truffleproj",
+  "version": "1.0.0",
+  "description": "truffle_projects",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "node": "v14.8.1",
+    "npm": "v8.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijithNair73/Truffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhijithNair73/Truffle/issues"
+  },
+  "homepage": "https://github.com/AbhijithNair73/Truffle#readme",
+  "devDependencies": {
+    "yarn": "^1.22.19"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.18",
+    "truffle": "^5.5.20"
+  }
+}
